@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.jumbotron {
+  background-color: #ecb390;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  
+  
+}
+.container{
+  background-color: #ecdfc8;
+}
+.card-footer {
+  background-color: #ecdfc8;
+}
+
+p {
+  font-size: 20px ;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ce580a;
+}
